@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{488E267A-4FBE-4696-A28A-4EAC49BD2A08}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DevFreela.API FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Controllers/ProjectsController.cs" Line="10" Column="3" />
+      <File FileName="appsettings.json" Line="11" Column="26" />
+      <File FileName="Models/OpeningTimeOption.cs" Line="11" Column="1" />
+      <File FileName="Program.cs" Line="11" Column="96" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DevFreela">
+            <Node name="DevFreela.API" selected="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DevFreela.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/Controllers/ProjectsController.cs" relfile="Controllers/ProjectsController.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
