@@ -9,6 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.Configure<OpeningTimeOption>(builder.Configuration.GetSection("OpeningTime"));
+builder.Services.AddScoped<ExampleClass>(e => new ExampleClass { Name = "Initial Stage" });
 
 var app = builder.Build();
 
