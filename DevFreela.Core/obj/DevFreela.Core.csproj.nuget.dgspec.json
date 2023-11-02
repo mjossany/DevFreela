@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Core/DevFreela.Core.csproj": {}
+    "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj": {}
   },
   "projects": {
-    "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Core/DevFreela.Core.csproj": {
+    "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Core/DevFreela.Core.csproj",
+        "projectUniqueName": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj",
         "projectName": "DevFreela.Core",
-        "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Core/DevFreela.Core.csproj",
+        "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj",
         "packagesPath": "/Users/jossanysilva/.nuget/packages/",
-        "outputPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Core/obj/",
+        "outputPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jossanysilva/.nuget/NuGet/NuGet.Config"

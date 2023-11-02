@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "DevFreela.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DevFreela.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevFreela.Core.dll": {}
+        }
       }
     }
   },
@@ -460,10 +470,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "DevFreela.Core/1.0.0": {
+      "type": "project",
+      "path": "DevFreela.Core/DevFreela.Core.csproj",
+      "msbuildProject": "DevFreela.Core/DevFreela.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "DevFreela.Core >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.13",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -474,11 +490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.API.csproj",
+      "projectUniqueName": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.API.csproj",
       "projectName": "DevFreela.API",
-      "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.API.csproj",
+      "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.API.csproj",
       "packagesPath": "/Users/jossanysilva/.nuget/packages/",
-      "outputPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/obj/",
+      "outputPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jossanysilva/.nuget/NuGet/NuGet.Config"
@@ -492,7 +508,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj": {
+              "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

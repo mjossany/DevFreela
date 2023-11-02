@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZ71IC+Oiwm0evumt7Nth+YG47vDdJRjHVe0/qh4MM07bYPwFZGh2O8BM7d2rkEakUIPOUz3VbIvr4ixdbA40g==",
+  "dgSpecHash": "Wr3AOv72Dykhb1g0x8pP1btdeofQRdxPq9mbIqQ1J1bDKH1Fe6XhbsBUJMgWqZ1g3DUu1CgRQWyjBMvQeSfRAg==",
   "success": true,
-  "projectFilePath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Core/DevFreela.Core.csproj",
+  "projectFilePath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

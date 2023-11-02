@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t/1+z+e5r5DYlG16WyqK58l0ponDK0UV3MRb3kmuTBCVDqyKjkIJYjEw4pqGr82jo/dI5Z/6F3ptrOaFbg5+cw==",
+  "dgSpecHash": "6RA0nej5hQEF5eoQcioxTm1E6lGEaWdWzHesWoSD7fclvL+1sb0uKJ/4qhDfsGuApZEV0pwz2fChiG+x+tqXog==",
   "success": true,
-  "projectFilePath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.API.csproj",
+  "projectFilePath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.API.csproj",
   "expectedPackageFiles": [
     "/Users/jossanysilva/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "/Users/jossanysilva/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

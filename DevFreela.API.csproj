@@ -37,4 +37,7 @@
     <_ContentIncludedByDefault Remove="DevFreela.Core\obj\project.assets.json" />
     <_ContentIncludedByDefault Remove="DevFreela.Core\obj\project.packagespec.json" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="DevFreela.Core\DevFreela.Core.csproj" />
+  </ItemGroup>
 </Project>

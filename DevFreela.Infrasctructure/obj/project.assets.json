@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Infrasctructure/DevFreela.Infrasctructure.csproj",
+      "projectUniqueName": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Infrasctructure/DevFreela.Infrasctructure.csproj",
       "projectName": "DevFreela.Infrasctructure",
-      "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Infrasctructure/DevFreela.Infrasctructure.csproj",
+      "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Infrasctructure/DevFreela.Infrasctructure.csproj",
       "packagesPath": "/Users/jossanysilva/.nuget/packages/",
-      "outputPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Infrasctructure/obj/",
+      "outputPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Infrasctructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jossanysilva/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Core/DevFreela.Core.csproj": {
-              "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/DevFreela.Core/DevFreela.Core.csproj"
+            "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj": {
+              "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj"
             }
           }
         }
