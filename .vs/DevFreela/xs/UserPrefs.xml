@@ -1,17 +1,27 @@
 ﻿<Properties StartupConfiguration="{488E267A-4FBE-4696-A28A-4EAC49BD2A08}|https">
+  <MonoDevelop.Ide.ItemProperties.DevFreela.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/ExampleClass.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/Controllers/ProjectsController.cs" relfile="Controllers/ProjectsController.cs" line="15" column="1" />
+      <Breakpoint file="/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/Controllers/ProjectsController.cs" relfile="Controllers/ProjectsController.cs" line="16" column="1" />
+      <Breakpoint file="/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/Controllers/UsersController.cs" relfile="Controllers/UsersController.cs" line="18" column="1" />
+      <Breakpoint file="/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/Controllers/UsersController.cs" relfile="Controllers/UsersController.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UsersController.cs">
     <Files>
-      <File FileName="Controllers/ProjectsController.cs" Line="1" Column="1" />
-      <File FileName="Controllers/UsersController.cs" Line="1" Column="1" />
-      <File FileName="Models/ExampleClass.cs" Line="6" Column="35" />
+      <File FileName="Controllers/ProjectsController.cs" Line="16" Column="1" />
+      <File FileName="Controllers/UsersController.cs" Line="33" Column="2" />
+      <File FileName="Models/ExampleClass.cs" Line="6" Column="31" />
+      <File FileName="Program.cs" Line="12" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DevFreela">
             <Node name="DevFreela.API">
-              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
             </Node>
           </Node>
@@ -23,11 +33,4 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.DevFreela.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/jossanysilva/Dev/PersonalProjects/DevFreela.API/Controllers/ProjectsController.cs" relfile="Controllers/ProjectsController.cs" line="21" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
