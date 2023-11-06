@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DevFreela.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DevFreela.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevFreela.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevFreela.Core/1.0.0": {
+      "type": "project",
+      "path": "../DevFreela.Core/DevFreela.Core.csproj",
+      "msbuildProject": "../DevFreela.Core/DevFreela.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DevFreela.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jossanysilva/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Infrasctructure/DevFreela.Infrasctructure.csproj",
+      "projectName": "DevFreela.Infrasctructure",
+      "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Infrasctructure/DevFreela.Infrasctructure.csproj",
+      "packagesPath": "/Users/jossanysilva/.nuget/packages/",
+      "outputPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Infrasctructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jossanysilva/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj": {
+              "projectPath": "/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/DevFreela.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

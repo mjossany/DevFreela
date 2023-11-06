@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using DevFreela.Core.Entities;
 
 namespace DevFreela.Infrasctructure.Persistence;

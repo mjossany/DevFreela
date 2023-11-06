@@ -1,0 +1,9 @@
+/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/bin/Debug/net7.0/DevFreela.Core.deps.json
+/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/bin/Debug/net7.0/DevFreela.Core.dll
+/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/bin/Debug/net7.0/DevFreela.Core.pdb
+/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/obj/Debug/net7.0/DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/obj/Debug/net7.0/DevFreela.Core.csproj.CoreCompileInputs.cache
+/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/obj/Debug/net7.0/DevFreela.Core.dll
+/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/obj/Debug/net7.0/refint/DevFreela.Core.dll
+/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/obj/Debug/net7.0/DevFreela.Core.pdb
+/Users/jossanysilva/Dev/PersonalProjects/DevFreela/DevFreela.Core/obj/Debug/net7.0/ref/DevFreela.Core.dll
